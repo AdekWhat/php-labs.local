@@ -1,2 +1,3 @@
+<pre>
 <?php
-echo 'Its my Home page';
+include 'lab1.2.2.1.php';
